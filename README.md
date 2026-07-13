@@ -49,7 +49,7 @@ This profile showcases my projects, experiments, and continuous learning as a so
 
 An open-source AI assistant focused on automation, extensibility and local execution.
 
-**Tech:** Python · AI · Ollama
+**Tech:** Python · LOCAL AI · Ollama
 
 ---
 
