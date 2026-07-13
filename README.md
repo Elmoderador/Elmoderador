@@ -99,3 +99,7 @@ Games, engines and development tools.
 <p align="center">
   Thanks for visiting my profile.
 </p>
+
+<p align="center">
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200' width='300' height='300'><style>@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } } .sausage { animation: spin 2s linear infinite; transform-origin: 100px 100px; }</style><rect width='100%' height='100%' fill='transparent'/><g class='sausage'><rect x='50' y='85' width='100' height='30' rx='15' fill='%23d9534f'/><rect x='45' y='95' width='10' height='10' rx='2' fill='%23c9302c'/><rect x='145' y='95' width='10' height='10' rx='2' fill='%23c9302c'/><path d='M 70 90 Q 80 88 90 92 T 110 90 T 130 92' stroke='%23f0ad4e' stroke-width='3' fill='none' stroke-linecap='round'/></g></svg>" alt="The Holy Sausage Engine"/>
+</p>
