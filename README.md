@@ -11,9 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Elmoderador">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Elmoderador&label=Profile+Views&style=for-the-badge&color=0A84FF"/>
+</p>
+
+<p align="center">
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Projects-0A84FF?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-Learning-purple?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-success?style=for-the-badge)
+
 </p>
 
 ---
@@ -22,7 +28,7 @@
 
 I'm passionate about software development, artificial intelligence, cybersecurity, and building open-source projects.
 
-This profile is my personal portfolio where I publish projects, experiments, and ideas while continuously learning new technologies.
+This profile serves as my personal portfolio where I publish projects, experiments, and ideas while continuously improving my technical skills.
 
 ---
 
@@ -37,21 +43,43 @@ This profile is my personal portfolio where I publish projects, experiments, and
 
 # 🛠️ Tech Stack
 
-| Languages | Frameworks & APIs | Tools | Databases |
-|-----------|-------------------|--------|-----------|
-| Python • Java • JavaScript • C++ | Node.js • Paper API • Spigot API | Git • GitHub • Linux • VS Code | MySQL • MongoDB |
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js"/>
+</p>
+
+### Frameworks & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
+
+**Paper API • Spigot API**
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+</p>
 
 ---
 
 # 📂 Featured Projects
 
-> 🚧 This section will grow as projects reach production quality.
+> 🚧 Projects will be added here as they reach production quality.
 
 | Project | Description | Status | Priority |
 |---------|-------------|--------|----------|
-| 🤖 AI Assistant | Local AI assistant focused on automation, extensibility and local execution. | ⏸️ On Hold | ⭐ Medium |
-| ⛏️ Minecraft Plugins | Plugins developed for Paper & Spigot servers. | 🟢 Active Development | 🔥 High |
-| 🛡️ Cybersecurity Tools | Utilities, automation and security-related experiments. | ⏸️ On Hold | ⭐ Medium |
+| 🤖 AI Assistant | Local AI assistant focused on automation and local execution. | ⏸️ On Hold | ⭐ Medium |
+| ⛏️ Minecraft Plugins | Plugins for Paper & Spigot servers. | 🟢 Active Development | 🔥 High |
+| 🛡️ Cybersecurity Tools | Utilities and security experiments. | ⏸️ On Hold | ⭐ Medium |
 | 🎮 Game Development | Personal games and development tools. | 📋 Planning | 💡 Low |
 
 ---
@@ -64,7 +92,7 @@ This profile is my personal portfolio where I publish projects, experiments, and
 <td valign="top" width="50%">
 
 | Emoji | Status |
-|:-----:|--------|
+|:--:|--------------------|
 | 📋 | Planning |
 | 🟡 | Research |
 | 🔵 | Prototype |
@@ -77,7 +105,7 @@ This profile is my personal portfolio where I publish projects, experiments, and
 <td valign="top" width="50%">
 
 | Emoji | Status |
-|:-----:|--------|
+|:--:|----------------|
 | 🟠 | Refactoring |
 | ⚪ | Maintenance |
 | ⏸️ | On Hold |
@@ -94,35 +122,11 @@ This profile is my personal portfolio where I publish projects, experiments, and
 
 # 🔥 Project Priority
 
-<table>
-<tr>
-
-<td width="33%">
-
 | Emoji | Priority |
-|:-----:|----------|
-| 🔥 | Highest |
-
-</td>
-
-<td width="33%">
-
-| Emoji | Priority |
-|:-----:|----------|
-| ⭐ | Medium |
-
-</td>
-
-<td width="33%">
-
-| Emoji | Priority |
-|:-----:|----------|
-| 💡 | Low |
-
-</td>
-
-</tr>
-</table>
+|:--:|----------------|
+| 🔥 | Highest Priority |
+| ⭐ | Medium Priority |
+| 💡 | Low Priority / Side Project |
 
 ---
 
@@ -134,7 +138,7 @@ This profile is my personal portfolio where I publish projects, experiments, and
 - Expand my cybersecurity knowledge.
 - Contribute to the open-source community.
 
-⭐ **If you find any of my projects useful, consider giving them a star.**
+⭐ **If you find any of my projects useful, consider giving them a star!**
 
 ---
 
@@ -150,12 +154,12 @@ This profile is my personal portfolio where I publish projects, experiments, and
 
 # 💭 Development Principles
 
-- Write clean, maintainable code.
-- Learn continuously.
-- Prioritize quality over quantity.
-- Document everything properly.
-- Build software that solves real problems.
-- Never stop improving.
+- ✅ Write clean, maintainable code.
+- ✅ Learn continuously.
+- ✅ Prioritize quality over quantity.
+- ✅ Document everything properly.
+- ✅ Build software that solves real problems.
+- ✅ Never stop improving.
 
 ---
 
@@ -174,7 +178,7 @@ This profile is my personal portfolio where I publish projects, experiments, and
 
 # 📜 License
 
-Unless otherwise specified, all repositories use their own individual licenses.
+Unless otherwise specified, each repository includes its own license.
 
 ---
 
@@ -185,5 +189,10 @@ Unless otherwise specified, all repositories use their own individual licenses.
 ---
 
 <p align="center">
+<i>Thanks for visiting my profile.</i>
+
+<br><br>
+
 <i>Always building something new.</i>
+
 </p>
