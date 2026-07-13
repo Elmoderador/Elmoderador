@@ -134,6 +134,7 @@ This profile serves as my personal portfolio where I publish projects, experimen
 | <img src="https://skillicons.dev/icons?i=linux" width="20"> Linux
 | <img src="https://skillicons.dev/icons?i=mysql" width="20"> MySQL
 | <img src="https://skillicons.dev/icons?i=mongodb" width="20"> MongoDB
+
 ---
 
 # 🎯 Goals
