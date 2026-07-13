@@ -42,9 +42,7 @@ This profile showcases my projects, experiments, and continuous learning as a so
 > 🚧 This section will be updated as new projects are released.
 
 <p align="center">
-  <a href="https://github.com/Elmoderador/Elmoderador">
-    <img src="https://img.shields.io/github/stars/Elmoderador/tu-repositorio-principal?style=social" alt="Stars">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=900&lines=COMING+SOON..."/>
 </p>
 
 ### 🤖 AI Projects
