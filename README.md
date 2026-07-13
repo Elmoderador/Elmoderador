@@ -106,12 +106,12 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 ---
 
-## 📊 Skill Matrix
+# 📊 Technical Skills
 
 | Technology | Level |
 |------------|--------|
-| <img src="https://skillicons.dev/icons?i=python" width="20"> Python | 🟢 Beginner |
-| <img src="https://skillicons.dev/icons?i=java" width="20"> Java | 🟢 Beginner |
+| <img src="https://skillicons.dev/icons?i=python" width="20"> Python | 🔵 Advanced |
+| <img src="https://skillicons.dev/icons?i=java" width="20"> Java | 🔵 Advanced |
 | <img src="https://skillicons.dev/icons?i=cpp" width="20"> C++ | 🟡 Intermediate |
 | <img src="https://skillicons.dev/icons?i=javascript" width="20"> JavaScript | 🟡 Intermediate |
 | <img src="https://skillicons.dev/icons?i=git" width="20"> Git | 🟢 Beginner |
@@ -119,6 +119,17 @@ This profile serves as my personal portfolio where I publish projects, experimen
 | <img src="https://skillicons.dev/icons?i=linux" width="20"> Linux | 🟢 Beginner |
 | <img src="https://skillicons.dev/icons?i=mysql" width="20"> MySQL | 🟢 Beginner |
 | <img src="https://skillicons.dev/icons?i=mongodb" width="20"> MongoDB | 🟢 Beginner |
+
+---
+
+### 📚 Skill Levels
+
+| Emoji | Level |
+|:-----:|-------|
+| 🟢 | Beginner |
+| 🟡 | Intermediate |
+| 🔵 | Advanced |
+| 🟣 | Expert |
 
 ---
 
