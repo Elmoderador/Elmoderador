@@ -106,19 +106,19 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 ---
 
-# 📊 Skill Matrix
+## 📊 Skill Matrix
 
 | Technology | Level |
 |------------|--------|
-| 🐍 Python | 🟢 Beginner |
-| ☕ Java | 🟢 Beginner |
-| ⚙️ C++ | 🟡 Intermediate |
-| 🌐 JavaScript | 🟡 Intermediate |
-| 🌿 Git | 🟢 Beginner |
-| <img src="https://cdn.simpleicons.org/github/ffffff" width="16"> GitHub | 🟢 Beginner |
-| 🐧 Linux | 🟢 Beginner |
-| 🐬 MySQL | 🟢 Beginner |
-| 🍃 MongoDB | 🟢 Beginner |
+| <img src="https://skillicons.dev/icons?i=python" width="20"> Python | 🟢 Beginner |
+| <img src="https://skillicons.dev/icons?i=java" width="20"> Java | 🟢 Beginner |
+| <img src="https://skillicons.dev/icons?i=cpp" width="20"> C++ | 🟡 Intermediate |
+| <img src="https://skillicons.dev/icons?i=javascript" width="20"> JavaScript | 🟡 Intermediate |
+| <img src="https://skillicons.dev/icons?i=git" width="20"> Git | 🟢 Beginner |
+| <img src="https://skillicons.dev/icons?i=github" width="20"> GitHub | 🟢 Beginner |
+| <img src="https://skillicons.dev/icons?i=linux" width="20"> Linux | 🟢 Beginner |
+| <img src="https://skillicons.dev/icons?i=mysql" width="20"> MySQL | 🟢 Beginner |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="20"> MongoDB | 🟢 Beginner |
 
 ---
 
