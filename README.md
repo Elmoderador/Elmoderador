@@ -58,31 +58,71 @@ This profile is my personal portfolio where I publish projects, experiments, and
 
 # 📖 Development Status
 
-| Emoji | Meaning |
-|-------|---------|
-| 🟢 | Active Development |
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+| Emoji | Status |
+|:-----:|--------|
+| 📋 | Planning |
 | 🟡 | Research |
 | 🔵 | Prototype |
+| 🟢 | Active Development |
 | 🟣 | Testing |
+| 🚀 | Beta |
+
+</td>
+
+<td valign="top" width="50%">
+
+| Emoji | Status |
+|:-----:|--------|
 | 🟠 | Refactoring |
 | ⚪ | Maintenance |
 | ⏸️ | On Hold |
-| 📋 | Planning |
-| 🚀 | Beta |
 | ✅ | Released |
 | 🏁 | Completed |
 | 🛑 | Archived |
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🔥 Project Priority
 
-| Emoji | Meaning |
-|-------|---------|
-| 🔥 | Highest Priority |
-| ⭐ | Medium Priority |
-| 💡 | Low Priority / Side Project |
+<table>
+<tr>
 
+<td width="33%">
+
+| Emoji | Priority |
+|:-----:|----------|
+| 🔥 | Highest |
+
+</td>
+
+<td width="33%">
+
+| Emoji | Priority |
+|:-----:|----------|
+| ⭐ | Medium |
+
+</td>
+
+<td width="33%">
+
+| Emoji | Priority |
+|:-----:|----------|
+| 💡 | Low |
+
+</td>
+
+</tr>
+</table>
 ---
 
 # 🎯 Goals
