@@ -45,9 +45,11 @@ This profile showcases my projects, experiments, and continuous learning as a so
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=900&lines=COMING+SOON..."/>
 </p>
 
-### 🤖 AI Projects
+## 🤖 AI Assistant
 
-Artificial intelligence applications and experiments.
+An open-source AI assistant focused on automation, extensibility and local execution.
+
+**Tech:** Python · AI · Ollama
 
 ---
 
