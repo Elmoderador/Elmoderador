@@ -42,7 +42,7 @@ This profile showcases my projects, experiments, and continuous learning as a so
 > 🚧 This section will be updated as new projects are released.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=900&lines=COMMING SOON..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=900&lines=COMMING+SOON..."/>
 </p>
 
 ### 🤖 AI Projects
