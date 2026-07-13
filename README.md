@@ -51,10 +51,18 @@ This GitHub is my portfolio, where I share experiments, open-source software, an
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🤖 AI Assistant | Local AI assistant focused on automation and extensibility. | 🟡 In Development |
-| ⛏️ Minecraft Plugins | Plugins developed for Paper & Spigot servers. | 🟢 Active |
-| 🛡️ Cybersecurity Tools | Utilities and security-related experiments. | 🟡 In Development |
-| 🎮 Game Development | Personal games and development tools. | 🔵 Planning |
+| 🤖 AI Assistant | Local AI assistant focused on automation, extensibility and local execution. | ⏸️ On Hold |
+| ⛏️ Minecraft Plugins | Plugins developed for Paper & Spigot servers. | 🟢 Active Development |
+| 🛡️ Cybersecurity Tools | Utilities and security-related experiments. | ⏸️ On Hold |
+| 🎮 Game Development | Personal games and development tools. | 📋 Planning |
+
+### 📖 Status Legend
+
+- 🟢 **Active Development** — Currently under active development.
+- 🟡 **Research** — Exploring ideas and technologies.
+- ⏸️ **On Hold** — Temporarily paused, planned to resume.
+- 📋 **Planning** — Planned, development has not started yet.
+- ✅ **Released** — Stable and publicly available.
 
 ---
 
@@ -62,7 +70,7 @@ This GitHub is my portfolio, where I share experiments, open-source software, an
 
 - Build high-quality open-source software.
 - Publish well-documented projects.
-- Improve my AI development skills.
+- Build practical AI applications.
 - Continue learning cybersecurity.
 - Contribute to the open-source community.
 
@@ -92,11 +100,11 @@ This GitHub is my portfolio, where I share experiments, open-source software, an
 
 # 📈 Future Roadmap
 
-- [ ] Publish my AI Assistant
-- [ ] Release more Minecraft plugins
-- [ ] Launch cybersecurity tools
-- [ ] Create a personal portfolio website
-- [ ] Contribute to larger open-source projects
+- [ ] Resume AI Assistant development.
+- [ ] Release more Minecraft plugins.
+- [ ] Launch cybersecurity tools.
+- [ ] Create a personal portfolio website.
+- [ ] Contribute to larger open-source projects.
 
 ---
 
