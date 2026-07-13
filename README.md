@@ -16,7 +16,7 @@
 
 I'm a developer passionate about creating useful software, exploring artificial intelligence, and continuously learning new technologies.
 
-This GitHub is where I build, experiment, and publish my projects.
+This profile showcases my projects, experiments, and continuous learning as a software developer.
 
 ---
 
@@ -25,7 +25,7 @@ This GitHub is where I build, experiment, and publish my projects.
 - 🤖 Artificial Intelligence
 - 🛡️ Cybersecurity
 - ⛏️ Minecraft Plugin Development
-- 💻 Open Source Software
+- 🌍 Open Source Development
 
 ---
 
@@ -39,7 +39,11 @@ This GitHub is where I build, experiment, and publish my projects.
 
 # 📂 Featured Projects
 
-> My best projects will appear here as they are completed.
+> 🚧 This section will be updated as new projects are released.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=900&lines=COMMING SOON..."/>
+</p>
 
 ### 🤖 AI Projects
 
@@ -72,6 +76,7 @@ Games, engines and development tools.
 - Improve my AI development skills.
 - Continue learning cybersecurity.
 - Contribute to the developer community.
+- Reach 5000 stars to get on the Developers Program
 
 ---
 
