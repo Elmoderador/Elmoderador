@@ -123,6 +123,7 @@ This profile is my personal portfolio where I publish projects, experiments, and
 
 </tr>
 </table>
+
 ---
 
 # 🎯 Goals
