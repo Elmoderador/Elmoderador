@@ -15,11 +15,9 @@
 </p>
 
 <p align="center">
-
-![Open Source](https://img.shields.io/badge/Open%20Source-Projects-0A84FF?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Learning-purple?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-success?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Open%20Source-Projects-0A84FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-7A3EFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-28A745?style=for-the-badge"/>
 </p>
 
 ---
@@ -43,31 +41,9 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 # 🛠️ Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js"/>
-</p>
-
-### Frameworks & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-</p>
-
-**Paper API • Spigot API**
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
-</p>
+| Languages | Frameworks & APIs | Tools | Databases |
+|-----------|-------------------|--------|-----------|
+| Python • Java • JavaScript • C++ | Node.js • Paper API • Spigot API | Git • GitHub • Linux • VS Code | MySQL • MongoDB |
 
 ---
 
@@ -77,9 +53,9 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 | Project | Description | Status | Priority |
 |---------|-------------|--------|----------|
-| 🤖 AI Assistant | Local AI assistant focused on automation and local execution. | ⏸️ On Hold | ⭐ Medium |
-| ⛏️ Minecraft Plugins | Plugins for Paper & Spigot servers. | 🟢 Active Development | 🔥 High |
-| 🛡️ Cybersecurity Tools | Utilities and security experiments. | ⏸️ On Hold | ⭐ Medium |
+| 🤖 AI Assistant | Local AI assistant focused on automation, extensibility and local execution. | ⏸️ On Hold | ⭐ Medium |
+| ⛏️ Minecraft Plugins | Plugins developed for Paper & Spigot servers. | 🟢 Active Development | 🔥 Highest |
+| 🛡️ Cybersecurity Tools | Utilities, automation and security-related experiments. | ⏸️ On Hold | ⭐ Medium |
 | 🎮 Game Development | Personal games and development tools. | 📋 Planning | 💡 Low |
 
 ---
@@ -123,7 +99,7 @@ This profile serves as my personal portfolio where I publish projects, experimen
 # 🔥 Project Priority
 
 | Emoji | Priority |
-|:--:|----------------|
+|:--:|---------------------------|
 | 🔥 | Highest Priority |
 | ⭐ | Medium Priority |
 | 💡 | Low Priority / Side Project |
@@ -132,11 +108,11 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 # 🎯 Goals
 
-- Build high-quality open-source software.
-- Publish polished and well-documented projects.
-- Develop practical AI applications.
-- Expand my cybersecurity knowledge.
-- Contribute to the open-source community.
+- 🚀 Build high-quality open-source software.
+- 📚 Publish polished and well-documented projects.
+- 🤖 Develop practical AI applications.
+- 🛡️ Expand my cybersecurity knowledge.
+- 🌍 Contribute to the open-source community.
 
 ⭐ **If you find any of my projects useful, consider giving them a star!**
 
@@ -163,19 +139,6 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 ---
 
-# 🗺️ Roadmap
-
-- [ ] Resume AI Assistant development.
-- [ ] Release additional Minecraft plugins.
-- [ ] Publish cybersecurity tools.
-- [ ] Launch a personal portfolio website.
-- [ ] Contribute to larger open-source projects.
-- [ ] Reach 100 GitHub Stars.
-- [ ] Reach 1,000 GitHub Stars.
-- [ ] Reach 5,000 GitHub Stars.
-
----
-
 # 📜 License
 
 Unless otherwise specified, each repository includes its own license.
@@ -189,10 +152,7 @@ Unless otherwise specified, each repository includes its own license.
 ---
 
 <p align="center">
-<i>Thanks for visiting my profile.</i>
-
-<br><br>
-
-<i>Always building something new.</i>
-
+  <b>Thanks for visiting my profile.</b>
+  <br><br>
+  <i>Always building something new.</i>
 </p>
