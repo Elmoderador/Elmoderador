@@ -56,7 +56,7 @@ This profile serves as my personal portfolio where I publish projects, experimen
 | 🤖 AI Assistant | Local AI assistant focused on automation, extensibility and local execution. | ⏸️ On Hold | ⭐ Medium |
 | ⛏️ Minecraft Plugins | Plugins developed for Paper & Spigot servers. | 🟢 Active Development | 🔥 Highest |
 | 🛡️ Cybersecurity Tools | Utilities, automation and security-related experiments. | ⏸️ On Hold | ⭐ Medium |
-| 🎮 Game Development | Personal games and development tools. | 📋 Planning | 💡 Low |
+| 🎮 Game Development | Personal games and development tools. | ⏸️ On Hold | 💡 Low |
 
 ---
 
