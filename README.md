@@ -106,6 +106,22 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 ---
 
+# 📊 Skill Matrix
+
+| Technology | Level |
+|------------|--------|
+| 🐍 Python | 🟢 Beginner |
+| ☕ Java | 🟢 Beginner |
+| ⚙️ C++ | 🟡 Intermediate |
+| 🌐 JavaScript | 🟡 Intermediate |
+| 🌿 Git | 🟢 Beginner |
+| <img src="https://cdn.simpleicons.org/github/ffffff" width="16"> GitHub | 🟢 Beginner |
+| 🐧 Linux | 🟢 Beginner |
+| 🐬 MySQL | 🟢 Beginner |
+| 🍃 MongoDB | 🟢 Beginner |
+
+---
+
 # 🎯 Goals
 
 - 🚀 Build high-quality open-source software.
