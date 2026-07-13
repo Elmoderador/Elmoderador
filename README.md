@@ -76,7 +76,8 @@ Games, engines and development tools.
 - Improve my AI development skills.
 - Continue learning cybersecurity.
 - Contribute to the developer community.
-- If you find any of my projects useful, consider leaving a star! It helps me get closer to the GitHub Developer Program.
+
+⭐ *If you find any of my projects useful, consider leaving a star! It helps me get closer to the GitHub Developer Program.*
 
 ---
 
@@ -98,8 +99,4 @@ Games, engines and development tools.
 
 <p align="center">
   Thanks for visiting my profile.
-</p>
-
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyMDAgMjAwJyB3aWR0aD0nMzAwJyBoZWlnaHQ9JzMwMCc+PHN0eWxlPkBrZXlmcmFtZXMgc3BpbiB7IGZyb20geyB0cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsgfSB0byB7IHRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7IH0gfSAuc2F1c2FnZSB7IGFuaW1hdGlvbjogc3BpbiAycyBsaW5lYXIgaW5maW5pdGU7IHRyYW5zZm9ybS1vcmlnaW46IDEwMHB4IDEwMHB4OyB9PC9zdHlsZT48cmVjdCB3aWR0aD0nMTAwJScgaGVpZ2h0PScxMDAnJSBmaWxsPSd0cmFuc3BhcmVudCcvPjxnIGNsYXNzPSdzYXVzYWdlJz48cmVjdCB4PSc1MCcgeT0nODUnIHdpZHRoPScxMDAnIGhlaWdodD0nMzAnIHJ4PScxNScgZmlsbD0nI2Q5NTM0ZicvPjxyZWN0IHg9JzQ1JyB5PSc5NScgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyByeD0nMicgZmlsbD0nI2M5MzAyYycvPjxyZWN0IHg9JzE0NScgeT0nOTUnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCcByeD0nMicgZmlsbD0nI2M5MzAyYycvPjxwYXRoIGQ9J00gNzAgOTAgUSA4MCA4OCA5MCA5MiBUIDExMCA5MCBUIDEzMCA5Micgc3Ryb2tlPScjZjBhZDRlJyBzdHJva2Utd2lkdGg9JzMnIGZpbGw9J25vbmUnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCovPjwvZz48L3N2Zz4=" alt="The Holy Sausage Engine"/>
 </p>
