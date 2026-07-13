@@ -20,9 +20,9 @@
 
 # 👋 Welcome
 
-I'm passionate about creating useful software, exploring artificial intelligence, and continuously improving my skills through real-world projects.
+I'm passionate about software development, artificial intelligence, cybersecurity, and building open-source projects.
 
-This GitHub is my portfolio, where I share experiments, open-source software, and everything I'm building.
+This profile is my personal portfolio where I publish projects, experiments, and ideas while continuously learning new technologies.
 
 ---
 
@@ -45,36 +45,55 @@ This GitHub is my portfolio, where I share experiments, open-source software, an
 
 # 📂 Featured Projects
 
-> 🚧 Projects are currently under active development.
->
-> This section will be updated as new repositories reach production quality.
+> 🚧 This section will grow as projects reach production quality.
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🤖 AI Assistant | Local AI assistant focused on automation, extensibility and local execution. | ⏸️ On Hold |
-| ⛏️ Minecraft Plugins | Plugins developed for Paper & Spigot servers. | 🟢 Active Development |
-| 🛡️ Cybersecurity Tools | Utilities and security-related experiments. | ⏸️ On Hold |
-| 🎮 Game Development | Personal games and development tools. | 📋 Planning |
+| Project | Description | Status | Priority |
+|---------|-------------|--------|----------|
+| 🤖 AI Assistant | Local AI assistant focused on automation, extensibility and local execution. | ⏸️ On Hold | ⭐ Medium |
+| ⛏️ Minecraft Plugins | Plugins developed for Paper & Spigot servers. | 🟢 Active Development | 🔥 High |
+| 🛡️ Cybersecurity Tools | Utilities, automation and security-related experiments. | ⏸️ On Hold | ⭐ Medium |
+| 🎮 Game Development | Personal games and development tools. | 📋 Planning | 💡 Low |
 
-### 📖 Status Legend
+---
 
-- 🟢 **Active Development** — Currently under active development.
-- 🟡 **Research** — Exploring ideas and technologies.
-- ⏸️ **On Hold** — Temporarily paused, planned to resume.
-- 📋 **Planning** — Planned, development has not started yet.
-- ✅ **Released** — Stable and publicly available.
+# 📖 Development Status
+
+| Emoji | Meaning |
+|-------|---------|
+| 🟢 | Active Development |
+| 🟡 | Research |
+| 🔵 | Prototype |
+| 🟣 | Testing |
+| 🟠 | Refactoring |
+| ⚪ | Maintenance |
+| ⏸️ | On Hold |
+| 📋 | Planning |
+| 🚀 | Beta |
+| ✅ | Released |
+| 🏁 | Completed |
+| 🛑 | Archived |
+
+---
+
+# 🔥 Project Priority
+
+| Emoji | Meaning |
+|-------|---------|
+| 🔥 | Highest Priority |
+| ⭐ | Medium Priority |
+| 💡 | Low Priority / Side Project |
 
 ---
 
 # 🎯 Goals
 
 - Build high-quality open-source software.
-- Publish well-documented projects.
-- Build practical AI applications.
-- Continue learning cybersecurity.
+- Publish polished and well-documented projects.
+- Develop practical AI applications.
+- Expand my cybersecurity knowledge.
 - Contribute to the open-source community.
 
-⭐ **If you find any of my projects useful, consider leaving a star!**
+⭐ **If you find any of my projects useful, consider giving them a star.**
 
 ---
 
@@ -88,23 +107,33 @@ This GitHub is my portfolio, where I share experiments, open-source software, an
 
 ---
 
-# 💭 Developer Principles
+# 💭 Development Principles
 
-- Write maintainable code.
+- Write clean, maintainable code.
 - Learn continuously.
-- Document projects properly.
 - Prioritize quality over quantity.
+- Document everything properly.
 - Build software that solves real problems.
+- Never stop improving.
 
 ---
 
-# 📈 Future Roadmap
+# 🗺️ Roadmap
 
 - [ ] Resume AI Assistant development.
-- [ ] Release more Minecraft plugins.
-- [ ] Launch cybersecurity tools.
-- [ ] Create a personal portfolio website.
+- [ ] Release additional Minecraft plugins.
+- [ ] Publish cybersecurity tools.
+- [ ] Launch a personal portfolio website.
 - [ ] Contribute to larger open-source projects.
+- [ ] Reach 100 GitHub Stars.
+- [ ] Reach 1,000 GitHub Stars.
+- [ ] Reach 5,000 GitHub Stars.
+
+---
+
+# 📜 License
+
+Unless otherwise specified, all repositories use their own individual licenses.
 
 ---
 
@@ -115,5 +144,5 @@ This GitHub is my portfolio, where I share experiments, open-source software, an
 ---
 
 <p align="center">
-  <i>Always building something new.</i>
+<i>Always building something new.</i>
 </p>
