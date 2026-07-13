@@ -1,14 +1,22 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner">
+  <img src="./assets/banner.png" alt="Elmoderador Banner">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,nodejs,git,github,linux,vscode,mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,nodejs,git,github,linux,vscode,mysql,mongodb" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=900&lines=Software+Developer;AI+Developer;Cybersecurity;Building+Open+Source+Projects;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=900&lines=Software+Developer;AI+Developer;Cybersecurity;Building+Open+Source+Projects;Always+Learning+Something+New"/>
 </p>
+
+<br>
+
+# 👋 Welcome
+
+I'm a developer passionate about creating useful software, exploring artificial intelligence, and continuously learning new technologies.
+
+This GitHub is where I build, experiment, and publish my projects.
 
 ---
 
@@ -21,21 +29,68 @@
 
 ---
 
-# 📂 Featured Projects
+# 🛠️ Tech Stack
 
-> Coming soon...
+| Languages | Tools | Databases |
+|-----------|-------|-----------|
+| Python • Java • JavaScript • C++ | Git • GitHub • VS Code • Linux | MySQL • MongoDB |
 
 ---
 
-# 📊 GitHub Statistics
+# 📂 Featured Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Elmoderador&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmoderador&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+> My best projects will appear here as they are completed.
+
+### 🤖 AI Projects
+
+Artificial intelligence applications and experiments.
+
+---
+
+### ⛏️ Minecraft Plugins
+
+Plugins built for Paper & Spigot servers.
+
+---
+
+### 🛡️ Cybersecurity
+
+Security-related tools and educational projects.
+
+---
+
+### 🎮 Game Development
+
+Games, engines and development tools.
+
+---
+
+# 📈 Goals
+
+- Build high-quality open-source software.
+- Publish complete and well-documented projects.
+- Improve my AI development skills.
+- Continue learning cybersecurity.
+- Contribute to the developer community.
+
+---
+
+# 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Java Backend Development
+- Cybersecurity
+- Software Architecture
 
 ---
 
 # 💡 Philosophy
 
-> *"Write clean code, keep learning, and build projects that matter."*
+> *"Write clean code. Keep learning. Build projects that matter."*
+
+---
+
+<p align="center">
+  Thanks for visiting my profile.
+</p>
