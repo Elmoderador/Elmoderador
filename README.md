@@ -108,7 +108,7 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 ## Primary Technologies
 
-▸ <img src="https://skillicons.dev/icons?i=python" width="20"> Python
+▸ <img src="https://skillicons.dev/icons?i=python" width="20"> Python /n/
 ▸ <img src="https://skillicons.dev/icons?i=java" width="20"> Java
 
 ## Working Knowledge
