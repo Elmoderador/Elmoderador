@@ -115,6 +115,7 @@ This profile serves as my personal portfolio where I publish projects, experimen
 <p>
 ▸ <img src="https://skillicons.dev/icons?i=java" width="20"> Java
 </p>
+
 ## Working Knowledge
 
 <p>
