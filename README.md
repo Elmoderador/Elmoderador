@@ -106,34 +106,20 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 ---
 
-# 📊 Technical Skills
-
-| Technology | Level |
-|------------|--------|
-| <img src="https://skillicons.dev/icons?i=python" width="20"> Python | 🔵 Advanced |
-| <img src="https://skillicons.dev/icons?i=java" width="20"> Java | 🔵 Advanced |
-| <img src="https://skillicons.dev/icons?i=cpp" width="20"> C++ | 🟡 Intermediate |
-| <img src="https://skillicons.dev/icons?i=javascript" width="20"> JavaScript | 🟡 Intermediate |
-| <img src="https://skillicons.dev/icons?i=git" width="20"> Git | 🟢 Beginner |
-| <img src="https://skillicons.dev/icons?i=github" width="20"> GitHub | 🟢 Beginner |
-| <img src="https://skillicons.dev/icons?i=linux" width="20"> Linux | 🟢 Beginner |
-| <img src="https://skillicons.dev/icons?i=mysql" width="20"> MySQL | 🟢 Beginner |
-| <img src="https://skillicons.dev/icons?i=mongodb" width="20"> MongoDB | 🟢 Beginner |
-
 ## Primary Technologies
 
-| <img src="https://skillicons.dev/icons?i=python" width="20"> Python
-| <img src="https://skillicons.dev/icons?i=java" width="20"> Java
+- <img src="https://skillicons.dev/icons?i=python" width="20"> Python
+- <img src="https://skillicons.dev/icons?i=java" width="20"> Java
 
 ## Working Knowledge
 
-| <img src="https://skillicons.dev/icons?i=cpp" width="20"> C++
-| <img src="https://skillicons.dev/icons?i=javascript" width="20"> JavaScript
-| <img src="https://skillicons.dev/icons?i=git" width="20"> Git
-| <img src="https://skillicons.dev/icons?i=github" width="20"> GitHub
-| <img src="https://skillicons.dev/icons?i=linux" width="20"> Linux
-| <img src="https://skillicons.dev/icons?i=mysql" width="20"> MySQL
-| <img src="https://skillicons.dev/icons?i=mongodb" width="20"> MongoDB
+- <img src="https://skillicons.dev/icons?i=cpp" width="20"> C++
+- <img src="https://skillicons.dev/icons?i=javascript" width="20"> JavaScript
+- <img src="https://skillicons.dev/icons?i=git" width="20"> Git
+- <img src="https://skillicons.dev/icons?i=github" width="20"> GitHub
+- <img src="https://skillicons.dev/icons?i=linux" width="20"> Linux
+- <img src="https://skillicons.dev/icons?i=mysql" width="20"> MySQL
+- <img src="https://skillicons.dev/icons?i=mongodb" width="20"> MongoDB
 
 ---
 
