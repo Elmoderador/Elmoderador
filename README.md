@@ -170,11 +170,10 @@ Main language for Minecraft plugin development and backend applications.
 
 | | |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=python" width="20"> Python |  <img src="https://skillicons.dev/icons?i=nodejs" width="20"> Node.js |
 | <img src="https://skillicons.dev/icons?i=cpp" width="20"> C++ | <img src="https://skillicons.dev/icons?i=linux" width="20"> Linux |
 | <img src="https://skillicons.dev/icons?i=javascript" width="20"> JavaScript | <img src="https://skillicons.dev/icons?i=mysql" width="20"> MySQL |
 | <img src="https://skillicons.dev/icons?i=git" width="20"> Git | <img src="https://skillicons.dev/icons?i=mongodb" width="20"> MongoDB |
-| <img src="https://skillicons.dev/icons?i=github" width="20"> GitHub |
+| <img src="https://skillicons.dev/icons?i=github" width="20"> GitHub | <img src="https://skillicons.dev/icons?i=nodejs" width="20"> Node.js |
 
 ---
 
