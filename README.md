@@ -57,7 +57,7 @@ Currently focused on developing software in the following areas:
 |---------|-------------|--------|----------|
 | 🤖 Discord Bot | Modular Discord bot focused on automation, moderation and community management. | ⏸️ On Hold | ⭐ Medium |
 | ⛏️ Minecraft Plugins | Plugins developed for Paper & Spigot servers. | 🟢 Active Development | 🔥 Highest |
-| 🛡️ Cybersecurity Tools | Utilities, automation and security-related experiments. | ⏸️ On Hold | ⭐ Medium |
+| 🛡️ Cybersecurity Tools | Utilities, automation and security-related experiments. | ⏸️ On Hold | 💡 Low |
 | 🎮 Game Development | Personal games and development tools. | ⏸️ On Hold | 💡 Low |
 
 ---
