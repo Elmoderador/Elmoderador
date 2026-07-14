@@ -62,7 +62,7 @@ Currently focusing on building practical software in the following areas:
 
 ---
 
-# 📖 Development Status
+# 📖 Development Status + Project Priority
 
 <table>
 <tr>
@@ -90,6 +90,15 @@ Currently focusing on building practical software in the following areas:
 | ✅ | Released |
 | 🏁 | Completed |
 | 🛑 | Archived |
+
+</td>
+
+<td valign="top" width="50%">
+| Emoji | Priority |
+|:--:|---------------------------|
+| 🔥 | Highest Priority |
+| ⭐ | Medium Priority |
+| 💡 | Low Priority / Side Project |
 
 </td>
 
