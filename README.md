@@ -64,10 +64,10 @@ Currently focusing on building practical software in the following areas:
 
 # 📖 Development Status + Project Priority
 
-<table width="100%">
+<table width="100%" style="width: 100%; display: table; table-layout: fixed;">
 <tr>
 
-<td valign="top" width="33%">
+<td valign="top" width="33.33%" style="width: 33.33%;">
 
 | Emoji | Status |
 |:--:|--------------------|
@@ -80,7 +80,7 @@ Currently focusing on building practical software in the following areas:
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33.33%" style="width: 33.33%;">
 
 | Emoji | Status |
 |:--:|----------------|
@@ -93,7 +93,7 @@ Currently focusing on building practical software in the following areas:
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33.33%" style="width: 33.33%;">
 
 | Emoji | Priority |
 |:--:|---------------------------|
