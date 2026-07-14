@@ -115,33 +115,13 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 ## Working Knowledge
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp" width="20"> C++
-<p>
-
-<p>  
-<img src="https://skillicons.dev/icons?i=javascript" width="20"> JavaScript
-<p>
-  
-<p>
-<img src="https://skillicons.dev/icons?i=git" width="20"> Git
-<p>
-
-<p>  
-<img src="https://skillicons.dev/icons?i=github" width="20"> GitHub
-<p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux" width="20"> Linux
-<p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" width="20"> MySQL
-<p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" width="20"> MongoDB
-<p>
+- <img src="https://skillicons.dev/icons?i=cpp" width="20"> C++
+- <img src="https://skillicons.dev/icons?i=javascript" width="20"> JavaScript
+- <img src="https://skillicons.dev/icons?i=git" width="20"> Git
+- <img src="https://skillicons.dev/icons?i=github" width="20"> GitHub
+- <img src="https://skillicons.dev/icons?i=linux" width="20"> Linux
+- <img src="https://skillicons.dev/icons?i=mysql" width="20"> MySQL
+- <img src="https://skillicons.dev/icons?i=mongodb" width="20"> MongoDB
 
 ---
 
