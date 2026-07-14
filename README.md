@@ -67,7 +67,7 @@ Currently focusing on building practical software in the following areas:
 <table>
 <tr>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 | Emoji | Status |
 |:--:|--------------------|
@@ -80,7 +80,7 @@ Currently focusing on building practical software in the following areas:
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 | Emoji | Status |
 |:--:|----------------|
@@ -93,7 +93,7 @@ Currently focusing on building practical software in the following areas:
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 | Emoji | Priority |
 |:--:|---------------------------|
 | 🔥 | Highest Priority |
@@ -104,16 +104,6 @@ Currently focusing on building practical software in the following areas:
 
 </tr>
 </table>
-
----
-
-# 🔥 Project Priority
-
-| Emoji | Priority |
-|:--:|---------------------------|
-| 🔥 | Highest Priority |
-| ⭐ | Medium Priority |
-| 💡 | Low Priority / Side Project |
 
 ---
 
