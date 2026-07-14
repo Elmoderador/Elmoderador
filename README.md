@@ -64,43 +64,65 @@ Currently focusing on building practical software in the following areas:
 
 # 📖 Development Status + Project Priority
 
-<table width="100%" style="width: 100%; display: table; table-layout: fixed;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td valign="top" width="33.33%" style="width: 33.33%;">
-
-| Emoji | Status |
-|:--:|--------------------|
-| 📋 | Planning |
-| 🟡 | Research |
-| 🔵 | Prototype |
-| 🟢 | Active Development |
-| 🟣 | Testing |
-| 🚀 | Beta |
-
+<td valign="top" width="32%">
+  <table width="100%">
+    <thead>
+      <tr>
+        <th align="center" width="25%">Emoji</th>
+        <th align="left">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td align="center">📋</td><td>Planning</td></tr>
+      <tr><td align="center">🟡</td><td>Research</td></tr>
+      <tr><td align="center">🔵</td><td>Prototype</td></tr>
+      <tr><td align="center">🟢</td><td>Active Development</td></tr>
+      <tr><td align="center">🟣</td><td>Testing</td></tr>
+      <tr><td align="center">🚀</td><td>Beta</td></tr>
+    </tbody>
+  </table>
 </td>
 
-<td valign="top" width="33.33%" style="width: 33.33%;">
+<td width="2%"></td>
 
-| Emoji | Status |
-|:--:|----------------|
-| 🟠 | Refactoring |
-| ⚪ | Maintenance |
-| ⏸️ | On Hold |
-| ✅ | Released |
-| 🏁 | Completed |
-| 🛑 | Archived |
-
+<td valign="top" width="32%">
+  <table width="100%">
+    <thead>
+      <tr>
+        <th align="center" width="25%">Emoji</th>
+        <th align="left">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td align="center">🟠</td><td>Refactoring</td></tr>
+      <tr><td align="center">⚪</td><td>Maintenance</td></tr>
+      <tr><td align="center">⏸️</td><td>On Hold</td></tr>
+      <tr><td align="center">✅</td><td>Released</td></tr>
+      <tr><td align="center">🏁</td><td>Completed</td></tr>
+      <tr><td align="center">🛑</td><td>Archived</td></tr>
+    </tbody>
+  </table>
 </td>
 
-<td valign="top" width="33.33%" style="width: 33.33%;">
+<td width="2%"></td>
 
-| Emoji | Priority |
-|:--:|---------------------------|
-| 🔥 | Highest Priority |
-| ⭐ | Medium Priority |
-| 💡 | Low Priority / Side Project |
-
+<td valign="top" width="32%">
+  <table width="100%">
+    <thead>
+      <tr>
+        <th align="center" width="25%">Emoji</th>
+        <th align="left">Priority</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td align="center">🔥</td><td>Highest Priority</td></tr>
+      <tr><td align="center">⭐</td><td>Medium Priority</td></tr>
+      <tr><td align="center">💡</td><td>Low Priority / Side Project</td></tr>
+    </tbody>
+  </table>
 </td>
 
 </tr>
