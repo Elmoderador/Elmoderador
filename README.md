@@ -24,13 +24,15 @@
 
 # 👋 Welcome
 
-I'm passionate about software development, artificial intelligence, cybersecurity, and building open-source projects.
+I'm passionate about software development, artificial intelligence, cybersecurity and building open-source software.
 
-This profile serves as my personal portfolio where I publish projects, experiments, and ideas while continuously improving my technical skills.
+This profile serves as my personal portfolio where I publish projects, experiments and ideas while continuously improving my technical skills.
 
 ---
 
 # 🚀 Current Focus
+
+Currently focusing on building practical software in the following areas:
 
 - 🤖 Artificial Intelligence
 - 🛡️ Cybersecurity
@@ -106,14 +108,27 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 ---
 
-## Primary Technologies
+# 💻 Primary Technologies
 
-<ul>
-  <li><img src="https://skillicons.dev/icons?i=python" width="20"> <b>Python</b></li>
-  <li><img src="https://skillicons.dev/icons?i=java" width="20"> <b>Java</b></li>
-</ul>
+These are the technologies I currently use the most.
 
-## Working Knowledge
+### <img src="https://skillicons.dev/icons?i=python" width="22"> Python
+
+- Artificial Intelligence
+- Automation
+- Desktop Applications
+- General Purpose Development
+
+### <img src="https://skillicons.dev/icons?i=java" width="22"> Java
+
+- Minecraft Plugin Development
+- Paper API
+- Spigot API
+- Backend Development
+
+---
+
+# 🧩 Working Knowledge
 
 - <img src="https://skillicons.dev/icons?i=cpp" width="20"> C++
 - <img src="https://skillicons.dev/icons?i=javascript" width="20"> JavaScript
@@ -149,12 +164,12 @@ This profile serves as my personal portfolio where I publish projects, experimen
 
 # 💭 Development Principles
 
-- ✅ Write clean, maintainable code.
+- ✅ Write clean and maintainable code.
 - ✅ Learn continuously.
 - ✅ Prioritize quality over quantity.
-- ✅ Document everything properly.
+- ✅ Document projects properly.
 - ✅ Build software that solves real problems.
-- ✅ Never stop improving.
+- ✅ Keep improving every day.
 
 ---
 
@@ -172,6 +187,6 @@ Unless otherwise specified, each repository includes its own license.
 
 <p align="center">
   <b>Thanks for visiting my profile.</b>
-  <br><br>
-  <i>Always building something new.</i>
+  <br>
+  <sub>Always building something new.</sub>
 </p>
