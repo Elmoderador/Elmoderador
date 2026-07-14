@@ -94,6 +94,7 @@ Currently focusing on building practical software in the following areas:
 </td>
 
 <td valign="top" width="33%">
+
 | Emoji | Priority |
 |:--:|---------------------------|
 | 🔥 | Highest Priority |
