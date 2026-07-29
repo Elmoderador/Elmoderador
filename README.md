@@ -57,10 +57,10 @@ Currently focused on developing software in the following areas:
 
 | Project | Description | Status | Priority |
 |---------|-------------|--------|----------|
-| ⛏️ [TimeEconomyPlugin](https://github.com/Elmoderador/TimeEconomyPlugin) | Custom Minecraft server plugin featuring economy, classes, legendary items, clans, authentication and integrations. | 🟢 Active Development | 🔥 Highest |
-| 🤖 Discord Bot | Modular Discord bot focused on automation, moderation and community management. | ⏸️ On Hold | ⭐ Medium |
+| ⛏️ [TimeEconomyPlugin](https://github.com/Elmoderador/TimeEconomyPlugin) | Custom Minecraft server plugin providing gameplay systems, progression mechanics, server management features and integrations. | 🟢 Active Development (v1.0.0 Released) | ⭐ Medium |
+| 🤖 Discord Bot | Modular Discord bot focused on automation, moderation and community management. | 🟢 Active Development | 🔥 Highest |
 | 🛡️ Cybersecurity Tools | Security utilities, automation tools and experimental projects. | ⏸️ On Hold | 💡 Low |
-| 🎮 Game Development | Personal games and experimental game development projects. | 🔵 Prototype | 💡 Low |
+| 🎮 Game Development | Personal games and experimental game development projects. | ⏸️ On Hold | 💡 Low |
 
 ---
 
@@ -68,7 +68,7 @@ Currently focused on developing software in the following areas:
 
 ## ⛏️ [TimeEconomyPlugin](https://github.com/Elmoderador/TimeEconomyPlugin)
 
-A custom Minecraft server plugin developed with Java and Paper API, focused on creating a complete gameplay ecosystem with custom progression and management systems.
+A custom Minecraft server plugin developed with Java and Paper API, providing custom gameplay systems, progression mechanics and server management features.
 
 ### Features
 
@@ -86,7 +86,7 @@ A custom Minecraft server plugin developed with Java and Paper API, focused on c
 - Maven
 - YAML Data Storage
 
-Status: 🟢 Active Development
+Status: 🟢 Active Development (v1.0.0 Released)
 
 ---
 
