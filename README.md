@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=900&lines=Software+Developer;AI+Developer;Cybersecurity;Building+Open+Source+Projects;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=900&lines=Software+Developer;AI+Developer;Cybersecurity;Building+Open+Source+Projects;Designing+Software+Systems"/>
 </p>
 
 <p align="center">
@@ -16,17 +16,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Projects-0A84FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-7A3EFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Featured%20Project-TimeEconomyPlugin-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cybersecurity-Learning-28A745?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-7A3EFF?style=for-the-badge"/>
 </p>
 
 ---
 
 # 👋 Welcome
 
-I'm passionate about software development, artificial intelligence, cybersecurity and building open-source software.
+I'm a software developer focused on building open-source projects, automation tools, Minecraft systems, artificial intelligence experiments and cybersecurity-related projects.
 
-This profile serves as my personal portfolio, where I share projects, experiments and ideas while continuously improving my technical skills.
+This profile serves as my personal portfolio, where I share projects, experiments and technical progress while continuously improving my development skills.
 
 ---
 
@@ -34,9 +35,10 @@ This profile serves as my personal portfolio, where I share projects, experiment
 
 Currently focused on developing software in the following areas:
 
-- 🤖 Discord Bot Development
-- 🛡️ Cybersecurity
 - ⛏️ Minecraft Plugin Development
+- 🏗️ Software Architecture
+- 🤖 Artificial Intelligence
+- 🛡️ Cybersecurity
 - 🌍 Open Source Development
 
 ---
@@ -45,7 +47,7 @@ Currently focused on developing software in the following areas:
 
 | Languages | Frameworks & APIs | Tools | Databases |
 |-----------|-------------------|--------|-----------|
-| Python • Java • JavaScript • C++ | Node.js • Paper API • Spigot API | Git • GitHub • Linux • VS Code | MySQL • MongoDB |
+| Python • Java • JavaScript • C++ | Paper API • Spigot API • Node.js | Git • GitHub • Linux • VS Code • Maven | MySQL • MongoDB |
 
 ---
 
@@ -55,10 +57,36 @@ Currently focused on developing software in the following areas:
 
 | Project | Description | Status | Priority |
 |---------|-------------|--------|----------|
+| ⛏️ [TimeEconomyPlugin](https://github.com/Elmoderador/TimeEconomyPlugin) | Custom Minecraft server plugin featuring economy, classes, legendary items, clans, authentication and integrations. | 🟢 Active Development | 🔥 Highest |
 | 🤖 Discord Bot | Modular Discord bot focused on automation, moderation and community management. | ⏸️ On Hold | ⭐ Medium |
-| ⛏️ Minecraft Plugins | Plugins developed for Paper & Spigot servers. | 🟢 Active Development | 🔥 Highest |
-| 🛡️ Cybersecurity Tools | Utilities, automation and security-related experiments. | ⏸️ On Hold | 💡 Low |
-| 🎮 Game Development | Personal games and development tools. | 🛑	Archived | 💡 Low |
+| 🛡️ Cybersecurity Tools | Security utilities, automation tools and experimental projects. | ⏸️ On Hold | 💡 Low |
+| 🎮 Game Development | Personal games and experimental game development projects. | 🔵 Prototype | 💡 Low |
+
+---
+
+# ⭐ Featured Project
+
+## ⛏️ [TimeEconomyPlugin](https://github.com/Elmoderador/TimeEconomyPlugin)
+
+A custom Minecraft server plugin developed with Java and Paper API, focused on creating a complete gameplay ecosystem with custom progression and management systems.
+
+### Features
+
+- ⏳ Time Economy System
+- ⚔️ Player Classes
+- 🗡️ Legendary Weapons
+- 🏰 Clan System
+- 🔐 Authentication System
+- 🤖 Discord Integration
+
+### Technologies
+
+- Java 21
+- Paper API 1.21+
+- Maven
+- YAML Data Storage
+
+Status: 🟢 Active Development
 
 ---
 
@@ -148,21 +176,26 @@ These are the technologies I currently use the most.
 
 ### <img src="https://skillicons.dev/icons?i=python" width="22"> Python
 
-Main language for automation, desktop software and artificial intelligence projects.
+Main language for automation, artificial intelligence experiments and general-purpose development.
 
 - Artificial Intelligence
 - Automation
 - Desktop Applications
-- General Purpose Development
+- Scripting
+- General Development
+
+---
 
 ### <img src="https://skillicons.dev/icons?i=java" width="22"> Java
 
-Main language for Minecraft plugin development and backend applications.
+Main language for Minecraft plugin development and backend systems.
 
 - Minecraft Plugin Development
 - Paper API
 - Spigot API
+- Object-Oriented Programming
 - Backend Development
+- Software Architecture
 
 ---
 
@@ -181,8 +214,9 @@ Main language for Minecraft plugin development and backend applications.
 
 - 🚀 Build high-quality open-source software.
 - 📚 Publish polished and well-documented projects.
+- 🏗️ Design scalable software architectures.
 - 🤖 Develop practical automation tools.
-- 🛡️ Expand my cybersecurity knowledge.
+- 🛡️ Expand cybersecurity knowledge.
 - 🌍 Contribute to the open-source community.
 
 ⭐ **If you find any of my projects useful, consider giving them a star!**
@@ -191,11 +225,11 @@ Main language for Minecraft plugin development and backend applications.
 
 # 📚 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Java Backend Development
+- Artificial Intelligence & Machine Learning
 - Cybersecurity
-- Software Architecture
+- Advanced Software Architecture
+- Backend Engineering
+- Scalable System Design
 
 ---
 
