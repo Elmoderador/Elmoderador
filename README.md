@@ -57,7 +57,7 @@ Currently focused on developing software in the following areas:
 
 | Project | Description | Status | Priority |
 |---------|-------------|--------|----------|
-| ⛏️ [TimeEconomyPlugin](https://github.com/Elmoderador/TimeEconomyPlugin) | Custom Minecraft server plugin providing gameplay systems, progression mechanics, server management features and integrations. | ✅	Released (v1.0.0 Released) | ⭐ Medium |
+| ⛏️ [TimeEconomyPlugin](https://github.com/Elmoderador/TimeEconomyPlugin) | Custom Minecraft server plugin providing gameplay systems, progression mechanics, server management features and integrations. | 🟢 Released & Under Development (v1.0.0 RELEASED) | ⭐ Medium |
 | 🤖 Discord Bot | Modular Discord bot focused on automation, moderation and community management. | 🟢 Active Development | 🔥 Highest |
 | 🛡️ Cybersecurity Tools | Security utilities, automation tools and experimental projects. | ⏸️ On Hold | 💡 Low |
 | 🎮 Game Development | Personal games and experimental game development projects. | ⏸️ On Hold | 💡 Low |
@@ -86,7 +86,7 @@ A custom Minecraft server plugin developed with Java and Paper API, providing cu
 - Maven
 - YAML Data Storage
 
-Status: 🟢 Active Development (v1.0.0 Released)
+Status: 🟢 Released & Under Development (v1.0.0 RELEASED)
 
 ---
 
