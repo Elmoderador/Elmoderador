@@ -51,6 +51,14 @@ Currently focused on developing software in the following areas:
 
 ---
 
+# 🔥 Coding Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Elmoderador&theme=default"/>
+</p>
+
+---
+
 # 📂 Featured Projects
 
 > Projects listed below represent my main development areas. Their status is updated as development progresses.
@@ -257,6 +265,26 @@ Unless otherwise specified, each repository includes its own license.
 > *"Code with purpose. Learn continuously. Build what matters."*
 
 </p>
+
+---
+
+# ☕ Coffee Disclaimer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coffee%20Dependency-Required-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Temperature-Hot%20☕-D2691E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Running-28A745?style=for-the-badge"/>
+</p>
+
+> [!WARNING]
+> ## ☕ Developer status
+>
+> ```
+> ☕ Coffee: Online
+> 🧠 Brain: Booting...
+> 🐛 Debugging: Active
+> 😴 Sleep: Optional
+> ```
 
 ---
 
