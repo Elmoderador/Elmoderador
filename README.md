@@ -94,7 +94,7 @@ A custom Minecraft server plugin developed with Java and Paper API, providing cu
 - Maven
 - YAML Data Storage
 
-Status: 🟢 Released & Under Development (v1.0.0 RELEASED)
+Status: 🟢 Released & Under Development (v1.5.0 RELEASED)
 
 ---
 
